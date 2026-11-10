@@ -3,12 +3,12 @@
 ### Exploring Artificial Intelligence Through Real-World Applications
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51af9a7c-f039-4fd2-a667-28efd6f47761" width="1000" alt="AI in Action — Learn, Create, Build workshop title poster" />
+  <img src="https://github.com/user-attachments/assets/60d6c742-3b70-4a0c-975b-784f31c5337f" width="1000" alt="AI in Action — Learn, Create, Build workshop title poster" />
 </p>
 
 **A practical, interactive learning programme for curious beginners, students, educators, researchers and working professionals.**
 
-Originally developed for the **Saroj Mohan Institute of Technology (SMIT), Guptipara — BCA Seminar, November 2026**, the core learning materials are intentionally **audience-neutral** and suitable for future academic, professional and corporate workshops.
+Originally developed as the core learning materials are intentionally **audience-neutral** and suitable for future academic, professional and corporate workshops.
 
 > **Our approach:** Discover what AI can do. Learn from trustworthy sources. Create with imagination. Build useful solutions. Reflect, verify and improve.
 
@@ -113,4 +113,4 @@ To use the interactive HTML resources, download their **raw HTML files** from Gi
 
 ---
 
-*AI in Action: Learn • Create • Build — originally assembled for the SMIT BCA Seminar, November 2026, and designed for reuse across academic and professional learning contexts.*
+*AI in Action: Learn • Create • Build — originally assembled and designed for reuse across academic and professional learning contexts.*
