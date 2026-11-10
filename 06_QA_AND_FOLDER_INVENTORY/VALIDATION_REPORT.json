@@ -1,0 +1,94 @@
+{
+  "programme": "AI in Action: Learn • Create • Build",
+  "date": "2026-11-10",
+  "source_archives": {
+    "public": "AI_in_Action_Phase_5_PUBLIC_Release_Candidate.zip",
+    "private": "AI_in_Action_Phase_3_PRIVATE_Trainer_Archive_DO_NOT_UPLOAD.zip",
+    "form_script": "AI_in_Action_Phase_4_COMPLETE.zip"
+  },
+  "public_files": 20,
+  "private_trainer_files": 10,
+  "main_READMEs": 6,
+  "public_markdown_local_links_checked": 72,
+  "broken_links": [],
+  "dashboard_links_checked": 26,
+  "broken_dashboard_links": [],
+  "presentations": [
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_01_DISCOVER_LIVE/02_Module_01_Audience_Slides_CLEAN.pptx",
+      "slides": 11,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_02_LEARN_LIVE/03_Digital_Safety_Awareness.pptx",
+      "slides": 10,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_02_LEARN_LIVE/06_Gemini_Notebook_Audience_Overview.pptx",
+      "slides": 11,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_03_CREATE_LIVE/03_AUDIENCE_SLIDES_CLEAN.pptx",
+      "slides": 12,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_04_BUILD_LIVE/04_AUDIENCE_PRESENTATION_CLEAN.pptx",
+      "slides": 12,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "01_PUBLIC_LEARNER_REPOSITORY/Module_05_REFLECT_LIVE/03_AUDIENCE_PRESENTATION_CLEAN.pptx",
+      "slides": 14,
+      "notes": 0,
+      "hidden_slide_flags": 0,
+      "public": true
+    },
+    {
+      "file": "02_PRIVATE_TRAINER_MATERIALS/Module_01_DISCOVER_LIVE/01_Module_01_Trainer_Master_WITH_NOTES.pptx",
+      "slides": 14,
+      "notes": 14,
+      "hidden_slide_flags": 3,
+      "public": false
+    },
+    {
+      "file": "02_PRIVATE_TRAINER_MATERIALS/Module_03_CREATE_LIVE/01_PRESENTER_MASTER_WITH_NOTES.pptx",
+      "slides": 14,
+      "notes": 14,
+      "hidden_slide_flags": 2,
+      "public": false
+    },
+    {
+      "file": "02_PRIVATE_TRAINER_MATERIALS/Module_04_BUILD_LIVE/01_PRESENTER_MASTER_WITH_NOTES.pptx",
+      "slides": 12,
+      "notes": 12,
+      "hidden_slide_flags": 0,
+      "public": false
+    },
+    {
+      "file": "02_PRIVATE_TRAINER_MATERIALS/Module_05_REFLECT_LIVE/01_PRESENTER_MASTER_WITH_NOTES.pptx",
+      "slides": 16,
+      "notes": 16,
+      "hidden_slide_flags": 2,
+      "public": false
+    }
+  ],
+  "presentations_total_slides": 126,
+  "native_external_ai_outputs_included": false,
+  "online_google_form_published": false,
+  "current_public_github_branch_cleaned": false,
+  "office_365_native_opening_tested": false,
+  "notes": "Private trainer PowerPoints intentionally include speaker notes; public PowerPoints have zero notes slides and zero hidden slides."
+}

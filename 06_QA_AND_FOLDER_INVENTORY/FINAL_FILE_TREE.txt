@@ -1,0 +1,61 @@
+AI_in_Action_Phase_6_FINAL_DELIVERY/
+├── 01_PUBLIC_LEARNER_REPOSITORY/
+│   ├── Module_01_DISCOVER_LIVE/
+│   │   ├── 02_Module_01_Audience_Slides_CLEAN.pptx
+│   │   └── README.md
+│   ├── Module_02_LEARN_LIVE/
+│   │   ├── 01_Digital_Safety_Fundamentals.pdf
+│   │   ├── 02_Real_World_Digital_Safety_Cases.docx
+│   │   ├── 03_Digital_Safety_Awareness.pptx
+│   │   ├── 04_Digital_Safety_Quick_Reference.txt
+│   │   ├── 05_Digital_Safety_Interactive_Lab.html
+│   │   ├── 06_Gemini_Notebook_Audience_Overview.pptx
+│   │   └── README.md
+│   ├── Module_03_CREATE_LIVE/
+│   │   ├── 03_AUDIENCE_SLIDES_CLEAN.pptx
+│   │   ├── 04_Cinematic_Production_Runbook.md
+│   │   └── README.md
+│   ├── Module_04_BUILD_LIVE/
+│   │   ├── 03_My_Smart_Planner_OFFLINE.html
+│   │   ├── 04_AUDIENCE_PRESENTATION_CLEAN.pptx
+│   │   └── README.md
+│   ├── Module_05_REFLECT_LIVE/
+│   │   ├── 03_AUDIENCE_PRESENTATION_CLEAN.pptx
+│   │   ├── 04_Offline_Quiz_and_Feedback.html
+│   │   └── README.md
+│   ├── AI_in_Action_Glossary.md
+│   └── README.md
+├── 02_PRIVATE_TRAINER_MATERIALS/
+│   ├── Module_01_DISCOVER_LIVE/
+│   │   ├── 01_Module_01_Trainer_Master_WITH_NOTES.pptx
+│   │   └── 03_Module_01_LIVE_CONTROL_CARD_PRIVATE.md
+│   ├── Module_02_LEARN_LIVE/
+│   │   └── 05_Gemini_Notebook_LIVE_CONTROL_CARD_PRIVATE.md
+│   ├── Module_03_CREATE_LIVE/
+│   │   ├── 01_PRESENTER_MASTER_WITH_NOTES.pptx
+│   │   └── 02_OPEN_WHILE_PRESENTING_ALL_PROMPTS.md
+│   ├── Module_04_BUILD_LIVE/
+│   │   ├── 01_PRESENTER_MASTER_WITH_NOTES.pptx
+│   │   └── 02_ALL_IN_ONE_DEMO_GUIDE_PRIVATE.md
+│   ├── Module_05_REFLECT_LIVE/
+│   │   ├── 01_PRESENTER_MASTER_WITH_NOTES.pptx
+│   │   └── 02_ALL_IN_ONE_TRAINER_GUIDE_PRIVATE.md
+│   └── PHASE_3_PUBLISHING_CHECKLIST_PRIVATE.md
+├── 03_SEMINAR_DAY/
+│   ├── 01_PRESENTER_COMMAND_CENTER.html
+│   └── 02_RUN_OF_SHOW_AND_READINESS_PRIVATE.md
+├── 04_GOOGLE_FORM_SETUP_PRIVATE/
+│   └── CREATE_GOOGLE_FORM_QUIZ_AND_FEEDBACK.gs
+├── 05_EXTERNAL_OUTPUTS_PENDING/
+│   ├── Module_02_Gemini_Notebook/
+│   ├── Module_03_Google_Vids_and_Audio/
+│   ├── Module_05_Published_Quiz_Form/
+│   └── README.md
+├── 06_QA_AND_FOLDER_INVENTORY/
+│   ├── ASSET_SHA256SUMS.txt
+│   ├── FILE_MANIFEST.csv
+│   ├── FINAL_FILE_TREE.txt
+│   ├── FINAL_FOLDER_FILE_LIST.md
+│   ├── PUBLISHING_AND_PRIVACY_CHECKLIST_PRIVATE.md
+│   └── VALIDATION_REPORT.json
+└── START_HERE_PRIVATE.md
