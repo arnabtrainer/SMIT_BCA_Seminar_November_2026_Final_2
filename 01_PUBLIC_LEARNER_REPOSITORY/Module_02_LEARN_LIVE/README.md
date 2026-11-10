@@ -110,7 +110,7 @@ Gemini Notebook may provide dedicated controls for several formats. Choose the r
 
 **Important:** Availability and the exact editing controls vary by account and product version. Not every listed output is a separate one-click feature. Some generation tasks can require processing time.
 
-![Sample visual learning output from the module gallery](https://github.com/user-attachments/assets/b0faeb81-0af5-4942-b355-43e560891368)
+![Sample visual learning output from the module gallery](https://github.com/user-attachments/assets/6488c640-adb4-4f6b-8e73-12589eb2466e)
 
 ### Step 5 — Copy-ready instructions for selected outputs
 
