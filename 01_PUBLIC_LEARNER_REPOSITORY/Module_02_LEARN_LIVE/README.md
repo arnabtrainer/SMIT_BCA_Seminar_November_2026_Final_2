@@ -30,7 +30,7 @@ After exploring this module, you should be able to:
 - Recognise the distinction between **dedicated Studio outputs** and **outputs requested through Chat instructions**.
 - Distinguish evidence, examples and uncertainty when an AI combines multiple references.
 
-<img width="972" height="250" alt="image" src="https://github.com/user-attachments/assets/f28e4c42-2e59-4f15-976c-f1a502b5a9de" />
+<img width="972" height="250" alt="image" src="https://github.com/user-attachments/assets/6e2b4fba-80b4-4615-9e9c-59b6e058a308" />
 
 ## 📁 The six-source learning project
 
@@ -223,7 +223,7 @@ Generate a clean, professional, source-grounded Digital Safety Data Table suitab
 Prioritize factual accuracy, source traceability, readability and practical usefulness.
 ```
 
-<img width="992" height="470" alt="image" src="https://github.com/user-attachments/assets/4a524f1a-ef30-4aed-b0bb-9a240f9afa58" />
+<img width="992" height="470" alt="image" src="https://github.com/user-attachments/assets/b4504fb6-dfe8-4d3f-9982-b176d7c1c210" />
 
 **Reports** — use the report generator or an appropriate Chat instruction:
 
