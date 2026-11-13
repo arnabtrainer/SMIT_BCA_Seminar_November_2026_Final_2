@@ -45,6 +45,12 @@ All six resources contribute to the **same notebook** but serve different purpos
 
 **Source-import note:** YouTube import depends on public availability and suitable captions/transcripts. Web pages may contain non-importable content. Check which sources actually appear in the notebook; the four supplied local files are sufficient to explore the core activities if one online source fails.
 
+---
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/d338dc47-6193-4ccc-a610-9e79b3f0ccea" />
+
+---
+
 ## 📥 What can Gemini Notebook accept?
 
 Depending on current product support and account eligibility, possible sources include PDF, DOCX, PPTX, TXT, Markdown, CSV, images, audio, website URLs, captioned public YouTube videos, pasted text and supported Google Workspace documents. File-size, document-length, language and source-count limits can vary.
