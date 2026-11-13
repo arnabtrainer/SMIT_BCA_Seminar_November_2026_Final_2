@@ -135,40 +135,6 @@ Make 12 short revision flashcards covering the most important digital-safety
 terms and decisions in these sources. Each answer should be concise and clear.
 ```
 
-**Audio Overview** — use the Audio Overview customisation field:
-
-```text
-Create a warm, conversational overview for curious beginners.
-Explain how to recognise suspicious messages and verify requests safely.
-Use clear everyday examples, avoid sensational claims, and acknowledge
-which stories in the source pack are fictional.
-```
-
-**Video Overview** — use its focus/customisation controls:
-
-```text
-Create a clear visual explanation of the most useful online-safety habits.
-Organise the story into recognising warning signs, checking a message,
-protecting accounts, and taking sensible next steps. Ground the content
-in the supplied sources and avoid unverified statistics.
-```
-
-**Infographic** — use the available visual customisation controls:
-
-```text
-Create a landscape infographic titled "Pause • Check • Protect".
-Use one central concept, 6 short content blocks, large readable labels,
-a simple decision flow, one worked example and a clear bottom takeaway.
-```
-
-**Slide Deck** — use its customisation controls:
-
-```text
-Create a concise, professional slide deck for a general audience explaining
-how to recognise suspicious messages, protect accounts and verify claims.
-Use large readable text, simple examples and a final checklist.
-```
-
 **Mind Map** — use its customisation controls:
 
 ```text
@@ -197,8 +163,6 @@ invent statistics, product claims or unsupported recommendations.
 Prioritise clarity, practical actions, source accuracy and a logical hierarchy. Keep the Mind Map
 suitable for classroom projection and independent revision.
 ```
-
-<img width="976" height="522" alt="image" src="https://github.com/user-attachments/assets/5d25df0b-e5b5-4481-a75b-e4a67b95ac74" />
 
 **Data Table** — use its customisation controls:
 
@@ -267,6 +231,24 @@ Overview, Common Risks, Practical Safeguards, Fictional Case Lessons,
 Evidence and Limitations, and Key Takeaways.
 ```
 
+**Infographic** — use the available visual customisation controls:
+
+```text
+Create a landscape infographic titled "Pause • Check • Protect".
+Use one central concept, 6 short content blocks, large readable labels,
+a simple decision flow, one worked example and a clear bottom takeaway.
+```
+
+**Slide Deck** — use its customisation controls:
+
+```text
+Create a concise, professional slide deck for a general audience explaining
+how to recognise suspicious messages, protect accounts and verify claims.
+Use large readable text, simple examples and a final checklist.
+```
+
+<img width="976" height="522" alt="image" src="https://github.com/user-attachments/assets/5d25df0b-e5b5-4481-a75b-e4a67b95ac74" />
+
 **Custom MCQ bank** — use notebook Chat:
 
 ```text
@@ -281,6 +263,24 @@ explanation and a supporting citation. Label fictional scenarios clearly.
 Produce an alphabetical glossary of 12 digital-safety terms from the
 selected sources. Give one plain-English definition, one everyday example
 and a source reference. Omit unsupported terms.
+```
+
+**Audio Overview** — use the Audio Overview customisation field:
+
+```text
+Create a warm, conversational overview for curious beginners.
+Explain how to recognise suspicious messages and verify requests safely.
+Use clear everyday examples, avoid sensational claims, and acknowledge
+which stories in the source pack are fictional.
+```
+
+**Video Overview** — use its focus/customisation controls:
+
+```text
+Create a clear visual explanation of the most useful online-safety habits.
+Organise the story into recognising warning signs, checking a message,
+protecting accounts, and taking sensible next steps. Ground the content
+in the supplied sources and avoid unverified statistics.
 ```
 
 ## ✅ Learning and quality check
