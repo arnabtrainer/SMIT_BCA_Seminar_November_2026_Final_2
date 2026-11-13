@@ -200,6 +200,65 @@ suitable for classroom projection and independent revision.
 
 <img width="976" height="522" alt="image" src="https://github.com/user-attachments/assets/5d25df0b-e5b5-4481-a75b-e4a67b95ac74" />
 
+**Data Table** — use its customisation controls:
+
+```text
+Create a comprehensive, well-structured, beginner-friendly Data Table titled:
+
+“Stay Smart in the Digital World — Digital Safety Reference Table”
+
+Use only the selected source materials uploaded to this Gemini Notebook.
+
+# Table Structure
+
+Organize the information under four categories:
+
+1. RECOGNISE — Phishing, suspicious messages, fraudulent links, QR-code scams, impersonation and online threats.
+2. PROTECT — Strong passwords, multi-factor authentication, privacy protection, secure devices and safe information sharing.
+3. VERIFY — Checking sender identities, validating website authenticity, confirming requests through official channels and identifying misinformation.
+4. RESPOND — Reporting suspicious activity, securing compromised accounts, changing passwords and taking appropriate corrective actions.
+
+# Required Columns
+
+Create a structured table containing these eight columns:
+
+1. Category — Recognize, Protect, Verify or Respond.
+2. Digital Safety Topic — The threat, concept or safety practice.
+3. Description — A simple explanation of the topic.
+4. Warning Signs / Risks — How to identify the potential problem.
+5. Recommended Safety Action — Practical steps to prevent or address the problem.
+6. Real-Life Example — A concise, relatable situation from the supplied materials.
+7. Supporting Source — Name of the document, video or webpage supporting the information, with citations wherever available.
+8. Source Classification — Published guidance, educational material or fictional teaching scenario.
+
+# Content Requirements
+
+- Include approximately 12–16 meaningful rows, provided the selected sources contain enough distinct information.
+- Keep each cell concise, accurate and easy to understand.
+- Cover important digital-safety habits without unnecessary duplication.
+- Use examples relevant to students, educators, employees and general internet users.
+- Clearly identify fictional examples from the Real-World Digital Safety Cases document.
+- Distinguish official FTC/CISA guidance from other educational sources.
+- Do not invent statistics, incidents, legal requirements or unsupported claims.
+- When information is unavailable, write **“Not stated in selected sources.”**
+- Where sources provide differing recommendations, identify the differences rather than silently combining them.
+- Organize rows logically under the four categories.
+
+# Expected Output
+
+Generate a clean, professional, source-grounded Digital Safety Data Table suitable for:
+
+- Classroom learning and discussions.
+- Independent revision and self-assessment.
+- Cybersecurity awareness activities.
+- Workplace safety training.
+- Exporting to Google Sheets for filtering, comparison and further analysis.
+
+Prioritize factual accuracy, source traceability, readability and practical usefulness.
+```
+
+<img width="992" height="470" alt="image" src="https://github.com/user-attachments/assets/4a524f1a-ef30-4aed-b0bb-9a240f9afa58" />
+
 **Report** — use the report generator or an appropriate Chat instruction:
 
 ```text
@@ -223,10 +282,6 @@ Produce an alphabetical glossary of 12 digital-safety terms from the
 selected sources. Give one plain-English definition, one everyday example
 and a source reference. Omit unsupported terms.
 ```
-
-
-
-For the **Mind Map**, standard generation may not provide the same dedicated free-text customisation input as other Studio artifacts; select the desired sources and explore the result.
 
 ## ✅ Learning and quality check
 
