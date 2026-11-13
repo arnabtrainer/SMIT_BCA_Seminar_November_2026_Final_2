@@ -169,6 +169,37 @@ how to recognise suspicious messages, protect accounts and verify claims.
 Use large readable text, simple examples and a final checklist.
 ```
 
+**Mind Map** — use its customisation controls:
+
+```text
+Create a clear, visually organised, beginner-friendly Mind Map titled “Stay
+Smart in the Digital World — Digital Safety Essentials”, using only the selected source materials.
+
+Use “Digital Safety” as the central topic and organise the main branches under four headings:
+
+1. RECOGNISE — Phishing, suspicious links and QR codes, fake messages, impersonation, urgency and
+common online scam warning signs.
+2. PROTECT — Strong unique passwords, multi-factor authentication, device updates, privacy protection
+and safe information sharing.
+3. VERIFY — Checking sender identities, confirming requests through official channels, comparing
+information with trusted sources and recognising misinformation.
+4. RESPOND — Avoiding suspicious interactions, reporting scams, securing affected accounts, changing
+compromised passwords and seeking appropriate assistance.
+
+Use short, meaningful labels, with approximately three to five subtopics per main branch. Show useful
+relationships between risks, preventive actions and responses. Keep the structure easy to explore for
+students and working professionals.
+
+Use fictional examples from the case-study document only where relevant, clearly identifying them as
+fictional scenarios. Distinguish published FTC/CISA guidance from the fictional teaching cases. Do not
+invent statistics, product claims or unsupported recommendations.
+
+Prioritise clarity, practical actions, source accuracy and a logical hierarchy. Keep the Mind Map
+suitable for classroom projection and independent revision.
+```
+
+<img width="976" height="522" alt="image" src="https://github.com/user-attachments/assets/5d25df0b-e5b5-4481-a75b-e4a67b95ac74" />
+
 **Report** — use the report generator or an appropriate Chat instruction:
 
 ```text
@@ -192,6 +223,8 @@ Produce an alphabetical glossary of 12 digital-safety terms from the
 selected sources. Give one plain-English definition, one everyday example
 and a source reference. Omit unsupported terms.
 ```
+
+
 
 For the **Mind Map**, standard generation may not provide the same dedicated free-text customisation input as other Studio artifacts; select the desired sources and explore the result.
 
