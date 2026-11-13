@@ -30,6 +30,8 @@ After exploring this module, you should be able to:
 - Recognise the distinction between **dedicated Studio outputs** and **outputs requested through Chat instructions**.
 - Distinguish evidence, examples and uncertainty when an AI combines multiple references.
 
+<img width="972" height="250" alt="image" src="https://github.com/user-attachments/assets/f28e4c42-2e59-4f15-976c-f1a502b5a9de" />
+
 ## 📁 The six-source learning project
 
 All six resources contribute to the **same notebook** but serve different purposes.
