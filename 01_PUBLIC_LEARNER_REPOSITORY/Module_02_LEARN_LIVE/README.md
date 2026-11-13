@@ -223,7 +223,7 @@ Prioritize factual accuracy, source traceability, readability and practical usef
 
 <img width="992" height="470" alt="image" src="https://github.com/user-attachments/assets/4a524f1a-ef30-4aed-b0bb-9a240f9afa58" />
 
-**Report** — use the report generator or an appropriate Chat instruction:
+**Reports** — use the report generator or an appropriate Chat instruction:
 
 ```text
 Write a structured, source-grounded digital-safety briefing with headings:
