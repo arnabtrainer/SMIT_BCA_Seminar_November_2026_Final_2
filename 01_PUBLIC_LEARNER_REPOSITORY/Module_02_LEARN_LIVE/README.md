@@ -51,6 +51,8 @@ All six resources contribute to the **same notebook** but serve different purpos
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/d338dc47-6193-4ccc-a610-9e79b3f0ccea" />
 
+**Gemini Notebook Link:** https://notebook.google
+
 ---
 
 ## 📥 What can Gemini Notebook accept?
