@@ -1,7 +1,7 @@
 # 📚 Module 02 — AI Can Help Me Learn
 
 > **AI in Action: Learn • Create • Build**  
-> **Theme:** Transform documents, articles and other sources into a more interactive learning experience using **Gemini Notebook**.
+> **Theme:** Transform documents, articles and other sources into a more interactive learning experience using **Gemini Notebook** https://notebook.google.
 
 ![Module 2 — AI Can Help Me Learn](https://github.com/user-attachments/assets/f791fea0-e4a0-4b53-8bb4-fde81f5ba633)
 
@@ -142,17 +142,17 @@ terms and decisions in these sources. Each answer should be concise and clear.
 **Mind Map** — use its customisation controls:
 
 ```text
-Create a clear, visually organised, beginner-friendly Mind Map titled “Stay
+Create a clear, visually organized, beginner-friendly Mind Map titled “Stay
 Smart in the Digital World — Digital Safety Essentials”, using only the selected source materials.
 
-Use “Digital Safety” as the central topic and organise the main branches under four headings:
+Use “Digital Safety” as the central topic and organize the main branches under four headings:
 
 1. RECOGNISE — Phishing, suspicious links and QR codes, fake messages, impersonation, urgency and
 common online scam warning signs.
 2. PROTECT — Strong unique passwords, multi-factor authentication, device updates, privacy protection
 and safe information sharing.
 3. VERIFY — Checking sender identities, confirming requests through official channels, comparing
-information with trusted sources and recognising misinformation.
+information with trusted sources and recognizing misinformation.
 4. RESPOND — Avoiding suspicious interactions, reporting scams, securing affected accounts, changing
 compromised passwords and seeking appropriate assistance.
 
@@ -164,7 +164,7 @@ Use fictional examples from the case-study document only where relevant, clearly
 fictional scenarios. Distinguish published FTC/CISA guidance from the fictional teaching cases. Do not
 invent statistics, product claims or unsupported recommendations.
 
-Prioritise clarity, practical actions, source accuracy and a logical hierarchy. Keep the Mind Map
+Prioritize clarity, practical actions, source accuracy and a logical hierarchy. Keep the Mind Map
 suitable for classroom projection and independent revision.
 ```
 
@@ -247,7 +247,7 @@ a simple decision flow, one worked example and a clear bottom takeaway.
 
 ```text
 Create a concise, professional slide deck for a general audience explaining
-how to recognise suspicious messages, protect accounts and verify claims.
+how to recognize suspicious messages, protect accounts and verify claims.
 Use large readable text, simple examples and a final checklist.
 ```
 
@@ -273,7 +273,7 @@ and a source reference. Omit unsupported terms.
 
 ```text
 Create a warm, conversational overview for curious beginners.
-Explain how to recognise suspicious messages and verify requests safely.
+Explain how to recognize suspicious messages and verify requests safely.
 Use clear everyday examples, avoid sensational claims, and acknowledge
 which stories in the source pack are fictional.
 ```
@@ -282,7 +282,7 @@ which stories in the source pack are fictional.
 
 ```text
 Create a clear visual explanation of the most useful online-safety habits.
-Organise the story into recognising warning signs, checking a message,
+Organize the story into recognizing warning signs, checking a message,
 protecting accounts, and taking sensible next steps. Ground the content
 in the supplied sources and avoid unverified statistics.
 ```
