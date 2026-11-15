@@ -107,6 +107,8 @@ Do not invent specifications or imply an official endorsement.
 
 Read the concept and choose **one clear story**, rather than combining several unrelated advertising ideas.
 
+**Product Webpage Link:** https://www.milton.in/products/atlantis-thermosteel-water-bottle
+
 ### Step 3 — Create scene-by-scene structured prompts
 
 ```text
@@ -144,7 +146,7 @@ Compose the shot to support the planned action and camera movement.
 Do not generate lettering, logos, captions or new people.
 ```
 
-Review the image carefully. Does the bottle match the official reference? Are hands, proportions and perspective believable? Approve a frame **before** using it for moving-video generation.
+Review the image carefully. Does the bottle match the official reference? Are hands, proportions and perspective believable? Approve a frame **before** using it for moving-video generation on Google Vids at https://workspace.google.com/products/vids/.
 
 ### Step 5 — Animate each reference frame into genuine video
 
