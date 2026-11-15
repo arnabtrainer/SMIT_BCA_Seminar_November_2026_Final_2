@@ -42,8 +42,8 @@ All six resources contribute to the **same notebook** but serve different purpos
 | 📘 Real-World Digital Safety Cases | DOCX | Fictional decisions and practical examples | [Open DOCX](02_Real_World_Digital_Safety_Cases.docx) |
 | 📊 Digital Safety Awareness | PPTX | Visual explanations and checklists | [Open PPTX](03_Digital_Safety_Awareness.pptx) |
 | 📝 Digital Safety Quick Reference | TXT | Terms, definitions and quick checks | [Open TXT](04_Digital_Safety_Quick_Reference.txt) |
-| 🎥 Recognize and Report Phishing — CISA | YouTube | Spoken public-awareness information, if transcript import is supported | [Open video](https://www.youtube.com/watch?v=JlQovysQBn0) |
-| 🌐 How to Recognize and Avoid Phishing Scams — FTC | Webpage | Published guidance to cross-check learning examples | [Read article](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams) |
+| 🎥 Recognize and Report Phishing — CISA | YouTube | Spoken public-awareness information, if transcript import is supported https://www.youtube.com/watch?v=JlQovysQBn0| [Open video](https://www.youtube.com/watch?v=JlQovysQBn0) |
+| 🌐 How to Recognize and Avoid Phishing Scams — FTC | Webpage | Published guidance to cross-check learning examples https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams| [Read article](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams) |
 
 **Source-import note:** YouTube import depends on public availability and suitable captions/transcripts. Web pages may contain non-importable content. Check which sources actually appear in the notebook; the four supplied local files are sufficient to explore the core activities if one online source fails.
 
