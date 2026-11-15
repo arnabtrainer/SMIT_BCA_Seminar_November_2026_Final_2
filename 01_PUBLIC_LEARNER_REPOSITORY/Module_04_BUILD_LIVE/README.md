@@ -135,6 +135,12 @@ Download [My Smart Planner](03_My_Smart_Planner_OFFLINE.html), open it, and try 
 
 ![Additional Smart Planner screenshot from the repository](https://github.com/user-attachments/assets/06f72e47-450b-4c3f-b067-e7d9679743cd)
 
+---
+
+<img width="892" height="1155" alt="image" src="https://github.com/user-attachments/assets/62169998-110c-453d-876c-c3731a72ae0c" />
+
+---
+
 ## 🧠 Understanding what AI did—and did not do
 
 AI-assisted development may generate interface code and logic from prompts. Once an ordinary HTML/JavaScript application has been created, its buttons, progress bars and task filters can work **without calling an AI service**. That is the case for the supplied offline HTML app.
